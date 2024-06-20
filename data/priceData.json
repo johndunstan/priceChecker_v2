@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "INTENSE 951 Trail Bike",
+    "listingUrl": "https://www.costco.com/intense-951-trail-bike.product.4000136517.html",
+    "checkPriceUrl": "https://www.costco.com/AjaxGetContractPrice?itemId=3074457345619974377&catalogId=10701&productId=3074457345619974874&isFrozenItem=false&isRegionalPdt=false&isBundleItem=false",
+    "targetPrice": 2999.98,
+    "alertSent": false
+  },
+  {
+    "id": 2,
+    "name": "INTENSE 951 XC Bike",
+    "listingUrl": "https://www.costco.com/intense-951-xc-bike.product.100691780.html",
+    "checkPriceUrl": "https://www.costco.com/AjaxGetContractPrice?itemId=2173092&catalogId=10701&productId=2171333&isFrozenItem=false&isRegionalPdt=false&isBundleItem=false",
+    "targetPrice": 1999.99,
+    "alertSent": false
+  },
+  {
+    "id": 3,
+    "name": "2004 INTENSE 951 XC Mountain Bike",
+    "listingUrl": "https://www.costco.com/.product.4000136479.html",
+    "checkPriceUrl": "https://www.costco.com/AjaxGetContractPrice?itemId=3074457345619973925&catalogId=10701&productId=3074457345619973918&isFrozenItem=false&isRegionalPdt=false&isBundleItem=false",
+    "targetPrice": 3499.98,
+    "alertSent": false
+  }
+]
